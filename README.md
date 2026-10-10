@@ -4,6 +4,8 @@
 > 本文既是 JobAgent 团队的实际操作手册，也可以直接导入 Notion，或改写成课程复盘、公众号文章和小红书分享。  
 > 项目示例仓库：`https://github.com/mrblank965/JobAgent.git`
 
+配套可复制 Prompt：[AI 编程团队协作必备 Prompt（通用版）](./AI_CODING_TEAM_ESSENTIAL_PROMPTS.md)
+
 ---
 
 ## 0. 先看结论：团队真正使用的是这一条流水线
